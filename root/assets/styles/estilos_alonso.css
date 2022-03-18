@@ -1,4 +1,10 @@
-body {background-color:black;}
-body {color:white;}
+body {
+    background-color:black;
+    color:white;
+
+}
 nav>ul>li {color:yellow}
 article {}
+header {
+    text-align: center; 
+}
