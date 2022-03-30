@@ -38,3 +38,16 @@ section {
     }
 
 /* Termina grid */
+nav >ul{
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid #fff;
+    color: greenyellow;
+    text-decoration: underline;
+    padding-bottom: 0.5rem;
+    display:flex
+}
+hgroup {
+    align-content: center;
+    justify-content: space-between;
+}
