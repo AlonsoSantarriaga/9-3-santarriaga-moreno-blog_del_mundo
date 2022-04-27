@@ -38,7 +38,7 @@ section {
     }
 
 /* Termina grid */
-nav >ul{
+nav>ul{
     align-items: center;
     justify-content: space-around;
     border-bottom: 1px solid #fff;
@@ -53,4 +53,18 @@ hgroup {
 }
 section>header {
     grid-column: span 12;
+}
+hgroup>header>article {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h2>hgroup>header>article {
+    display: flex;
+    align-items: center;
+}
+
+img>h2>hgroup>header>article {
+    margin-right: 1rem;
 }
