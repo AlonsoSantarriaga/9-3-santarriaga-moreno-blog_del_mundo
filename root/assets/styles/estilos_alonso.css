@@ -68,3 +68,10 @@ h2>hgroup>header>article {
 img>h2>hgroup>header>article {
     margin-right: 1rem;
 }
+#footer_blog div:nth-child(2) {
+    font-size: 0.9rem;
+}
+
+aside>div>img {
+    background-color:#fff
+}
