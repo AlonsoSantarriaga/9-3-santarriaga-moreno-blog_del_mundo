@@ -75,3 +75,8 @@ img>h2>hgroup>header>article {
 aside>div>img {
     background-color:#fff
 }
+aside div img {
+    background-color: #fff;
+    padding: 0.5rem;
+    border-radius: 50%;
+}
