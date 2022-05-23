@@ -100,3 +100,18 @@ aside>h2{
 aside>div {
 background-color: rgb(44, 43, 43);
 }
+
+nav ul li a{
+    text-decoration: none;
+}
+
+nav ul li {
+    list-style: none;
+}
+footer {
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 4rem;
+    padding-bottom: 4rem; 
+}
