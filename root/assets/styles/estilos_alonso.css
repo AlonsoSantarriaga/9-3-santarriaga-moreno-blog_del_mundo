@@ -72,6 +72,7 @@ img>h2>hgroup>header>article {
 }
 #footer_blog div:nth-child(2) {
     font-size: 0.9rem;
+    
 }
 
 aside>div>img {
@@ -85,6 +86,10 @@ aside div img {
 
 #footer_blog:nth-child(2) {
     font-size: 9rem;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
 
 aside>h2{
